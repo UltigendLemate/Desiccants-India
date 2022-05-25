@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/chaitanya/public_html/desiccants
+    - export DEPLOYPATH=/home/chaitanya/public_html/desiccants/
     - /bin/cp * $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
