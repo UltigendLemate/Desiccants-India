@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdesiccants_india"]=self["webpackChunkdesiccants_india"]||[]).push([[443],{7381:function(n,a,s){s.r(a),s.d(a,{default:function(){return f}});var i=s(3396);const t={class:"about"},c=(0,i._)("h1",null,"This is an about page",-1),e=[c];function u(n,a){return(0,i.wg)(),(0,i.iD)("div",t,e)}var r=s(89);const d={},o=(0,r.Z)(d,[["render",u]]);var f=o}}]);
+//# sourceMappingURL=about.898f9ce8.js.map
