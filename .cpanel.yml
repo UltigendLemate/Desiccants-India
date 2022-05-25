@@ -3,3 +3,4 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/chaitanya/public_html/desiccants
     - /bin/cp * $DEPLOYPATH
+    - /bin/cp */* $DEPLOYPATH
